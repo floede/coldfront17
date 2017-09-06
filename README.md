@@ -168,6 +168,14 @@ speakerdeck.com/jlord
 
 ![alt text][eric-illu]
 
+## Henrik Joreteg
+@HenrikJoreteg
+
+http://wpt.fyi
+
+![alt text][henrik-illu]
+
+
 
 [eva-illu]: ./img/eva-ferreira.jpg "Eva Ferreira"
 [peter-illu]: ./img/peter-oshaughnessy.jpg "Peter O'Shaughnessy"
@@ -179,3 +187,4 @@ speakerdeck.com/jlord
 [una-illu]: ./img/una-kravets.jpg "Una Kravets"
 [jessica-illu]: ./img/jessica-lord.jpg "Jessica Lord"
 [eric-illu]: ./img/eric-muntz.jpg "Eric Muntz"
+[henrik-illu]: ./img/henrik-joreteg.jpg "Henrik Joreteg"
