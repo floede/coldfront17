@@ -6,6 +6,11 @@ Phil Hawksworth
 
 @philhawksworth
 
+## Illustrations
+Brian Frisch
+
+@teltploek
+
 _Day 1_
 
 ## Eva Ferreira
@@ -13,21 +18,27 @@ _Day 1_
 
 http://evaferreira.com.ar/coldfront/
 
+![alt text][eva-illu]
 
 ## Peter O'Shaughnessy
 @poshaughnessy
 
+![alt text][peter-illu]
 
 ## Ben Schwarz
 @benschwarz
 
 calibreapp.com
 
+![alt text][ben-illu]
+
 
 ## Ken Wheeler
 @ken_wheeler
 
 Formidable
+
+![alt text][ken-illu]
 
 
 ## Sam Richard
@@ -56,6 +67,7 @@ http://snugug.github.io/magic-tricks-with-houdini/
 
 [Houdini Samples](https://github.com/googlechrome/houdini-samples)
 
+![alt text][sam-illu]
 
 ## Jordan Santell
 @jsantell
@@ -63,3 +75,36 @@ http://snugug.github.io/magic-tricks-with-houdini/
 https://github.com/googlevr/webvr-polyfill
 
 @voxelkei
+
+![alt text][jordan-illu]
+
+_Day 2_
+
+## Kenneth Rohde Christiansen
+
+@kennethrohde
+
+https://bit.ly/2iU4KtH
+
+![alt text][kenneth-illu]
+
+## Una Kravets
+@una
+
+una.im
+
+instagram.com/dev_doodle
+
+
+
+
+[eva-illu]: ./img/eva-ferreira.jpg "Eva Ferreira"
+[peter-illu]: ./img/peter-oshaughnessy.jpg "Peter O'Shaughnessy"
+[ben-illu]: ./img/ben-schwarz.jpg "Ben Schwarz"
+[ken-illu]: ./img/ken-wheeler.jpg "Ken Wheeler"
+[sam-illu]: ./img/sam-richard.jpg "Sam Richard"
+[jordan-illu]: ./img/jordan-santell.jpg "Jordan Santell"
+[kenneth-illu]: ./img/kenneth-rohde.jpg "Kenneth Rohde Christiansen"
+[eva-illu]: ./img/eva-ferreira.jpg "Eva Ferreira"
+[eva-illu]: ./img/eva-ferreira.jpg "Eva Ferreira"
+[eva-illu]: ./img/eva-ferreira.jpg "Eva Ferreira"
