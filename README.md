@@ -86,6 +86,8 @@ _Day 2_
 
 https://bit.ly/2iU4KtH
 
+[Slides](https://docs.google.com/presentation/d/13urpBTcAnKCi8iOccQfM4nIKDdxQrg5Qj6gymGPkk3s/edit#slide=id.g24e228bf8a_0_0)
+
 ![alt text][kenneth-illu]
 
 ## Una Kravets
@@ -131,7 +133,40 @@ twitch.tv/noopkat
 
 ![alt text][una-illu]
 
+## Jessica Lord
 
+@jllord
+
+jlord.us
+
+[Git-it app](https://github.com/jlord/git-it-electron)
+
+[Electron API Demo](https://github.com/electron/electron-api-demos)
+
+[sheetsee.js](jlord.us/sheetsee.js/)
+
+glitch.com
+
+spreadsheet.glitch.me
+
+@kosamari
+
+bubblesort.io
+
+speakerdeck.com/jlord
+
+![alt text][jessica-illu]
+
+## Eric Muntz
+@muntzen
+
+[WhaleSynth](http://www.whalesynth.com/)
+
+[NailChamp](http://www.nailchamp.com/)
+
+[MailShrimp](http://www.mailshrimpfilm.com/)
+
+![alt text][eric-illu]
 
 
 [eva-illu]: ./img/eva-ferreira.jpg "Eva Ferreira"
@@ -142,3 +177,5 @@ twitch.tv/noopkat
 [jordan-illu]: ./img/jordan-santell.jpg "Jordan Santell"
 [kenneth-illu]: ./img/kenneth-rohde.jpg "Kenneth Rohde Christiansen"
 [una-illu]: ./img/una-kravets.jpg "Una Kravets"
+[jessica-illu]: ./img/jessica-lord.jpg "Jessica Lord"
+[eric-illu]: ./img/eric-muntz.jpg "Eric Muntz"
