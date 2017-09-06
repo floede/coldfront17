@@ -95,6 +95,42 @@ una.im
 
 instagram.com/dev_doodle
 
+https://simplypsychology.org/working%20memory.html
+
+https://una.im/local-css-vars/#💁
+
+http://uistore.io/downloads/ui-toolkit/
+
+https://github.com/TheLarkInn/artsy-webpack-tour
+
+makinggameofthrones.com
+
+yzuzun.com/tag/happy-path/
+
+smartdraw.com
+
+https://blockgeeks.com/
+
+draw.io
+
+cacoo.com
+
+graffletopia.com
+
+asciiflow.com
+
+fiftythree.com
+
+twitch.tv/noopkat
+
+@chiuki
+
+@sailorhg
+
+@bysusanlin
+
+![alt text][una-illu]
+
 
 
 
@@ -105,6 +141,4 @@ instagram.com/dev_doodle
 [sam-illu]: ./img/sam-richard.jpg "Sam Richard"
 [jordan-illu]: ./img/jordan-santell.jpg "Jordan Santell"
 [kenneth-illu]: ./img/kenneth-rohde.jpg "Kenneth Rohde Christiansen"
-[eva-illu]: ./img/eva-ferreira.jpg "Eva Ferreira"
-[eva-illu]: ./img/eva-ferreira.jpg "Eva Ferreira"
-[eva-illu]: ./img/eva-ferreira.jpg "Eva Ferreira"
+[una-illu]: ./img/una-kravets.jpg "Una Kravets"
