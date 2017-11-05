@@ -11,6 +11,9 @@ Brian Frisch
 
 @teltploek
 
+## Video
+Recap: https://www.youtube.com/watch?v=zXJuEp8d6gw
+
 _Day 1_
 
 ## Eva Ferreira
@@ -29,6 +32,8 @@ http://evaferreira.com.ar/coldfront/
 @benschwarz
 
 calibreapp.com
+
+Video: https://www.youtube.com/watch?v=m2hlpG64Rzs
 
 ![alt text][ben-illu]
 
@@ -175,9 +180,9 @@ speakerdeck.com/jlord
 
 http://wpt.fyi
 
-![alt text][henrik-illu]
+Video: https://youtu.be/I2BZLIFl-TI
 
-https://youtu.be/I2BZLIFl-TI
+![alt text][henrik-illu]
 
 
 [eva-illu]: ./img/eva-ferreira.jpg "Eva Ferreira"
