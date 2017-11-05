@@ -171,10 +171,13 @@ speakerdeck.com/jlord
 ## Henrik Joreteg
 @HenrikJoreteg
 
+[joreteg.com/blog/betting-on-the-web](https://joreteg.com/blog/betting-on-the-web)
+
 http://wpt.fyi
 
 ![alt text][henrik-illu]
 
+https://youtu.be/I2BZLIFl-TI
 
 
 [eva-illu]: ./img/eva-ferreira.jpg "Eva Ferreira"
